@@ -1,0 +1,40 @@
+{
+  "name": "impulsa",
+  "version": "1.0.0",
+  "description": "Red de motivación para empoderar mujeres",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexisPescoran/Impulsa.git"
+  },
+  "keywords": [
+    "javascript",
+    "firebase",
+    "jest"
+  ],
+  "author": "Alexis, Ivana, Melissa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexisPescoran/Impulsa/issues"
+  },
+  "homepage": "https://github.com/AlexisPescoran/Impulsa#readme",
+  "dependencies": {
+    "eslint": "^5.16.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.3.4",
+    "@babel/node": "^7.2.2",
+    "@babel/plugin-transform-modules-commonjs": "^7.2.0",
+    "@babel/preset-env": "^7.3.4",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^24.1.0",
+    "eslint": "^5.10.0",
+    "eslint-plugin-jest": "^22.1.2",
+    "jest": "^24.1.0",
+    "regenerator-runtime": "^0.13.1"
+  }  
+}
