@@ -1,3 +1,8 @@
+
+.img-logo{
+  width: 10%
+}
+
 .morado {
     background-color: #5D2F52;
 }
@@ -11,4 +16,23 @@
 
 .img-webex {
   width: 15%;
+}
+.img-mentora {
+  width: 95%;
+  height: 10%;
+  margin: 1% 1% 1% 1%;
+}
+
+.text {
+  text-align: center;
+  margin: 2% auto;
+  color:  #95486E;
+
+}
+.mostrar {
+  display: block;
+}
+
+.ocultar{
+  display: none;
 }
